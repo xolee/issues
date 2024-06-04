@@ -3,6 +3,7 @@
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
       <text class="title">{{ title }}</text>
+      <nut-button type="primary">主要按钮</nut-button>
     </view>
   </view>
 </template>
